@@ -1,0 +1,179 @@
+Menu_Item,Sales_Category,Menu_Category,Menu_Item_Void_Quantity,Voids,Menu_Item_Quantity,Gross_Sales,Discounts,Net_Sales,Sales_Percentage,Tax_1,Tax_2,Tax_3
+ Espresso,Drinks,Hot Drinks,26,$84.30,382,"$1,245.75",$39.03,"$1,206.72",0.37,$60.34,$0.00,$0.00
+1 Pint Gelato,Food,GELATO,0,$0.00,91,"$1,179.45",$50.63,"$1,128.82",0.35,$56.44,$0.00,$0.00
+1 lb Coffee Beans,Food,Extra,0,$0.00,102,"$1,836.00",$81.00,"$1,755.00",0.54,$87.75,$0.00,$0.00
+100g Black Tin - English Breakfast - Black Loose Leaf Tea,Teas,Teas,1,$25.00,3,$75.00,$12.50,$62.50,0.02,$3.13,$0.00,$0.00
+100g Black Tin - Floral Jasmine - Green Loose Leaf Tea,Teas,Teas,0,$0.00,8,$200.00,$20.00,$180.00,0.06,$9.00,$0.00,$0.00
+100g Black Tin - Imperial Earl Grey - Black Loose Leaf Tea,Teas,Teas,0,$0.00,5,$125.00,$0.00,$125.00,0.04,$6.25,$0.00,$0.00
+100g Black Tin - Masala Chai - Black Loose Leaf Tea ,Teas,Teas,0,$0.00,6,$150.00,$2.50,$147.50,0.05,$7.38,$0.00,$0.00
+100g Black Tin - Organic Pear Tree - Green Loose Leaf Tea,Teas,Teas,0,$0.00,5,$125.00,$0.00,$125.00,0.04,$6.25,$0.00,$0.00
+12 oz Honey Lavender Latte,Drinks,Hot Drinks,0,$0.00,4,$19.00,$0.00,$19.00,0.01,$0.95,$0.00,$0.00
+12 oz Steamed Milk ,Drinks,Hot Drinks,0,$0.00,8,$26.80,$0.00,$26.80,0.01,$1.34,$0.00,$0.00
+12oz Americano,Drinks,Hot Drinks,12,$40.85,1535,"$5,098.53",$160.42,"$4,938.11",1.52,$246.90,$0.00,$0.00
+12oz Cappuccino,Drinks,Hot Drinks,4,$17.40,390,"$1,727.25",$23.94,"$1,703.31",0.53,$85.17,$0.00,$0.00
+12oz Cappucino,Drinks,Hot Drinks,2,$8.00,209,$865.50,$27.98,$837.52,0.26,$41.88,$0.00,$0.00
+12oz Chai Latte,Drinks,Hot Drinks,3,$13.55,434,"$1,953.15",$90.96,"$1,862.19",0.57,$93.11,$0.00,$0.00
+12oz Drip Coffee,Drinks,Hot Drinks,33,$82.80,2249,"$5,776.85",$215.53,"$5,561.32",1.72,$278.07,$0.00,$0.00
+12oz Hot Chocolate,Drinks,Hot Drinks,4,$19.50,612,"$2,948.25",$103.26,"$2,844.99",0.88,$142.25,$0.00,$0.00
+12oz Latte,Drinks,Hot Drinks,13,$56.30,1607,"$7,086.06",$261.84,"$6,824.22",2.11,$341.21,$0.00,$0.00
+12oz Matcha Latte,Drinks,Hot Drinks,2,$9.50,262,"$1,285.75",$60.52,"$1,225.23",0.38,$61.26,$0.00,$0.00
+12oz Mocha,Drinks,Hot Drinks,4,$21.25,468,"$2,504.25",$162.41,"$2,341.84",0.72,$117.09,$0.00,$0.00
+16 Oz Cappuccino,Drinks,Hot Drinks,0,$0.00,131,$647.91,$21.83,$626.08,0.19,$31.30,$0.00,$0.00
+16 Oz Cappucino,Drinks,Hot Drinks,0,$0.00,90,$422.00,$16.20,$405.80,0.13,$20.29,$0.00,$0.00
+16 Oz Frosty Matcha,Drinks,Cold Drinks,-2,$0.00,320,"$2,114.50",$119.39,"$1,995.11",0.62,$99.43,$0.00,$0.00
+16 Oz Frosty Strawberry,Drinks,Cold Drinks,1,$6.00,140,$855.00,$55.80,$799.20,0.25,$39.96,$0.00,$0.00
+16 Oz Iced Matcha Latte,Drinks,Cold Drinks,0,$0.00,122,$705.75,$42.74,$663.01,0.2,$33.15,$0.00,$0.00
+16 Oz Pumpkin Spice Latte,Drinks,Hot Drinks,0,$0.00,7,$40.75,$0.00,$40.75,0.01,$2.04,$0.00,$0.00
+16 oz Honey Lavender Latte ,Drinks,Hot Drinks,0,$0.00,4,$22.00,$0.00,$22.00,0.01,$1.10,$0.00,$0.00
+16 oz Steamed Milk,Drinks,Hot Drinks,0,$0.00,28,$109.40,$59.12,$50.28,0.02,$2.51,$0.00,$0.00
+16oz Americano,Drinks,Hot Drinks,6,$22.25,851,"$3,210.70",$120.36,"$3,090.34",0.95,$154.52,$0.00,$0.00
+16oz Chai Latte,Drinks,Hot Drinks,3,$14.65,431,"$2,168.55",$95.50,"$2,073.05",0.64,$103.65,$0.00,$0.00
+16oz Drip Coffee,Drinks,Hot Drinks,17,$46.55,1665,"$4,746.20",$156.99,"$4,589.21",1.42,$229.46,$0.00,$0.00
+16oz Frosty Blueberry,Drinks,Cold Drinks,0,$0.00,122,$743.25,$36.75,$706.50,0.22,$35.33,$0.00,$0.00
+16oz Frosty Espresso,Drinks,Cold Drinks,2,$12.00,220,"$1,339.50",$86.80,"$1,252.70",0.39,$62.64,$0.00,$0.00
+16oz Frosty Mango,Drinks,Cold Drinks,-2,$0.00,209,"$1,258.00",$119.50,"$1,138.50",0.35,$56.63,$0.00,$0.00
+16oz Frosty Mocha,Drinks,Cold Drinks,9,$54.00,566,"$3,466.50",$195.83,"$3,270.67",1.01,$163.53,$0.00,$0.00
+16oz Hot Chocolate,Drinks,Hot Drinks,3,$15.25,430,"$2,296.35",$284.71,"$2,011.64",0.62,$100.58,$0.00,$0.00
+16oz Iced Americano,Drinks,Cold Drinks,0,$0.00,354,"$1,354.50",$57.55,"$1,296.95",0.4,$64.85,$0.00,$0.00
+16oz Iced Caramel Macchiato,Drinks,Cold Drinks,1,$5.25,356,"$1,902.00",$116.30,"$1,785.70",0.55,$89.29,$0.00,$0.00
+16oz Iced Chai Latte,Drinks,Cold Drinks,3,$15.40,212,"$1,097.55",$42.70,"$1,054.85",0.33,$52.74,$0.00,$0.00
+16oz Iced Chocolate,Drinks,Cold Drinks,0,$0.00,79,$420.25,$34.90,$385.35,0.12,$19.27,$0.00,$0.00
+16oz Iced Latte,Drinks,Cold Drinks,3,$15.30,612,"$3,128.50",$134.34,"$2,994.16",0.92,$149.71,$0.00,$0.00
+16oz Iced Mocha,Drinks,Cold Drinks,2,$11.50,394,"$2,312.50",$137.26,"$2,175.24",0.67,$108.76,$0.00,$0.00
+16oz Latte,Drinks,Hot Drinks,10,$50.85,1385,"$6,875.25",$313.86,"$6,561.39",2.03,$328.07,$0.00,$0.00
+16oz London Fog Tea Latte,Drinks,Hot Drinks,5,$24.90,798,"$4,089.00",$177.18,"$3,911.82",1.21,$195.59,$0.00,$0.00
+16oz Matcha Latte,Drinks,Hot Drinks,0,$0.00,207,"$1,177.30",$57.18,"$1,120.12",0.35,$56.01,$0.00,$0.00
+16oz Mocha,Drinks,Hot Drinks,3,$18.75,585,"$3,478.50",$241.11,"$3,237.39",1,$161.87,$0.00,$0.00
+16oz Slushy Mango,Drinks,Cold Drinks,1,$5.00,4,$16.85,$4.48,$12.37,0,$0.62,$0.00,$0.00
+50g Black Tin - Organic Peppermint Leaves - Herbal Loose Leaf Tea,Teas,Teas,0,$0.00,3,$75.00,$21.25,$53.75,0.02,$2.69,$0.00,$0.00
+Add Avocado,Food,Hidden Modifiers,0,$0.00,24,$34.00,$0.00,$34.00,0.01,$1.63,$0.00,$0.00
+Add Bacon,Food,Hidden Modifiers,0,$0.00,42,$42.00,$0.00,$42.00,0.01,$2.10,$0.00,$0.00
+Add Chocolate Syrup,Drinks,Hidden Modifiers,0,$0.00,6,$4.50,$0.00,$4.50,0,$0.23,$0.00,$0.00
+Add Egg,Food,Hidden Modifiers,0,$0.00,42,$42.00,$0.00,$42.00,0.01,$2.15,$0.00,$0.00
+Almond Birdnest,Pastry,Pastry,0,$0.00,41,$202.95,$4.96,$197.99,0.06,$9.90,$0.00,$0.00
+Almond Biscotti,Pastry,Pastry,0,$0.00,10,$49.50,$1.24,$48.26,0.01,$2.41,$0.00,$0.00
+Almond Cherry Chocolate,Pastry,Pastry,0,$0.00,5,$24.75,$6.20,$18.55,0.01,$0.93,$0.00,$0.00
+Almond Cherry Chocolate Pastry,Pastry,Pastry,0,$0.00,98,$485.10,$104.13,$380.97,0.12,$19.05,$0.00,$0.00
+Ambit Sweater,Merchandise,Merchandise,0,$0.00,3,$195.00,$0.00,$195.00,0.06,$9.75,$0.00,$13.65
+Ambits Tumbler,Merchandise,Merchandise,0,$0.00,4,$91.80,$18.37,$73.43,0.02,$3.67,$5.14,$0.00
+Ambit’s Tumbler,Merchandise,Merchandise,0,$0.00,4,$91.80,$11.09,$80.71,0.02,$4.04,$0.00,$5.65
+Avo Salmon,Food,Lunch,10,$123.45,836,"$10,251.40",$686.46,"$9,564.94",2.95,$478.25,$0.00,$0.00
+Avocado Stack,Food,Lunch,4,$39.80,162,"$1,667.95",$53.73,"$1,614.22",0.5,$80.71,$0.00,$0.00
+Avocado Toast,Food,Breakfast,4,$34.80,1154,"$10,027.25",$528.15,"$9,499.10",2.93,$474.96,$0.00,$0.00
+Bacon & Cheese Scone,Pastry,Pastry,2,$8.90,153,$734.35,$60.00,$674.35,0.21,$33.72,$0.00,$0.00
+Bacon Breakfast Bagel,Food,Breakfast,1,$7.95,17,$135.15,$32.64,$102.51,0.03,$5.13,$0.00,$0.00
+Bacon Breakfast Wrap,Food,Breakfast,14,$111.30,1586,"$12,612.25",$240.33,"$12,371.92",3.82,$618.60,$0.00,$0.00
+Bacon Cheese Scone,Pastry,Pastry,0,$0.00,4,$18.00,$0.00,$18.00,0.01,$0.90,$0.00,$0.00
+Banana Loaf,Pastry,Pastry,1,$2.95,445,"$1,312.75",$10.36,"$1,302.39",0.4,$65.12,$0.00,$0.00
+Barista Box 12oz X 12Cups,Food,Extra,0,$0.00,28,$700.00,$252.50,$447.50,0.14,$22.38,$0.00,$0.00
+Blood Orange (Caffeine Free),Teas,Teas,0,$0.00,33,$122.25,$13.00,$109.25,0.03,$5.46,$0.00,$0.00
+Blood Orange Caffeine Free,Teas,Teas,0,$0.00,14,$41.86,$2.99,$38.87,0.01,$1.94,$0.00,$0.00
+Blueberry Oat Squares,Pastry,Pastry,0,$0.00,240,$948.00,$19.21,$928.79,0.29,$46.44,$0.00,$0.00
+Breakfast Sandwich,Food,Breakfast,17,$132.10,1918,"$14,636.36",$596.69,"$14,039.67",4.33,$701.78,$0.00,$0.00
+Brownie GF,Pastry,Pastry,3,$14.85,366,"$1,811.70",$50.35,"$1,761.35",0.54,$88.07,$0.00,$0.00
+Burnaby Oat Cookie,Pastry,Pastry,0,$0.00,7,$27.65,$1.98,$25.67,0.01,$1.28,$0.00,$0.00
+Burnaby Oat Cookies,Pastry,Pastry,2,$7.90,93,$367.35,$3.96,$363.39,0.11,$18.17,$0.00,$0.00
+Butter Croissant,Pastry,Pastry,2,$5.90,444,"$1,309.80",$49.42,"$1,260.38",0.39,$63.02,$0.00,$0.00
+Butterfly Pea Flower Iced Tea,Drinks,Cold Drinks,0,$0.00,4,$21.20,$5.30,$15.90,0,$0.80,$0.00,$0.00
+Butterfly Pea Flowers ,Teas,Teas,0,$0.00,6,$27.00,$2.26,$24.74,0.01,$1.24,$0.00,$0.00
+Caramel,Drinks,Hidden Modifiers,0,$0.00,102,$56.10,$0.00,$56.10,0.02,$2.67,$0.00,$0.00
+Caramel Macchiato,Drinks,Hot Drinks,3,$15.00,909,"$4,838.76",$216.11,"$4,622.65",1.43,$231.13,$0.00,$0.00
+Carrot Cake,Pastry,Pastry,3,$20.85,464,"$3,224.80",$70.99,"$3,153.81",0.97,$157.69,$0.00,$0.00
+Chamomile (Caffeine Free),Teas,Teas,0,$0.00,38,$140.80,$3.75,$137.05,0.04,$6.85,$0.00,$0.00
+Cheese Scone,Pastry,Pastry,0,$0.00,242,$955.90,$12.87,$943.03,0.29,$47.15,$0.00,$0.00
+Cherry Blossom Gift Set,Teas,Teas,0,$0.00,1,$58.00,$0.00,$58.00,0.02,$2.90,$0.00,$0.00
+Chicken Cosmos,Food,Lunch,14,$184.20,1688,"$21,362.05","$1,017.90","$20,344.15",6.28,"$1,016.88",$0.00,$0.00
+Chicken Samosa,Pastry,Pastry,1,$4.25,16,$68.00,$0.00,$68.00,0.02,$3.40,$0.00,$0.00
+Chocolate Biscotti,Pastry,Pastry,0,$0.00,16,$79.20,$15.87,$63.33,0.02,$3.17,$0.00,$0.00
+Chocolate Croissant,Pastry,Pastry,4,$11.80,415,"$1,224.26",$34.78,"$1,189.48",0.37,$59.47,$0.00,$0.00
+Chocolate Pecan Loaf -GF,Pastry,Pastry,0,$0.00,94,$277.30,$8.87,$268.43,0.08,$13.42,$0.00,$0.00
+Christmas Cookies,Pastry,Pastry,0,$0.00,31,$153.45,$33.46,$119.99,0.04,$6.00,$0.00,$0.00
+Cola,Drinks,Bottle Drinks,1,$2.99,82,$245.19,$24.75,$220.44,0.07,$11.02,$0.00,$11.56
+Collagen Shake,Drinks,Cold Drinks,0,$0.00,1,$6.95,$0.00,$6.95,0,$0.35,$0.00,$0.00
+Cookie,Pastry,Pastry,1,$2.50,142,$355.00,$11.25,$343.75,0.11,$17.19,$0.00,$0.00
+Cranberry Omega Loaf,Pastry,Pastry,1,$2.95,62,$182.90,$1.20,$181.70,0.06,$9.09,$0.00,$0.00
+Croissant,Pastry,Pastry,6,$17.70,119,$351.05,$8.88,$342.17,0.11,$17.11,$0.00,$0.00
+Dacquoise GF,Pastry,Pastry,16,$79.20,1633,"$8,083.35",$893.84,"$7,189.51",2.22,$359.48,$0.00,$0.00
+Double Chocolate Cookie,Pastry,Pastry,0,$0.00,118,$413.00,$8.75,$404.25,0.12,$20.21,$0.00,$0.00
+Earl Grey,Teas,Teas,0,$0.00,108,$386.10,$12.54,$373.56,0.12,$18.68,$0.00,$0.00
+Egg Nog Cheesecake,Pastry,Pastry,1,$4.95,13,$64.35,$14.88,$49.47,0.02,$2.47,$0.00,$0.00
+Egg Nog Latte (16oz) Seasonal Drink,Drinks,Hot Drinks,0,$0.00,32,$191.90,$12.50,$179.40,0.06,$8.97,$0.00,$0.00
+English Breakfast,Teas,Teas,1,$3.75,138,$498.48,$37.33,$461.15,0.14,$23.06,$0.00,$0.00
+Espresso Macchiato,Drinks,Hot Drinks,0,$0.00,17,$63.00,$0.00,$63.00,0.02,$3.15,$0.00,$0.00
+French Butter Tart,Pastry,Pastry,1,$3.95,267,"$1,054.65",$17.03,"$1,037.62",0.32,$51.88,$0.00,$0.00
+French Soda (w/cream),Drinks,Cold Drinks,0,$0.00,5,$27.00,$10.88,$16.12,0,$0.81,$0.00,$1.13
+Gelato,Food,Extra,0,$0.00,2,$30.00,$10.50,$19.50,0.01,$0.98,$0.00,$0.00
+Gift Card Purchase,Gift Card Sales,Extra,9,$230.00,90,"$2,080.00",$280.00,"$1,800.00",0.56,$0.00,$0.00,$0.00
+Ginger Ale,Drinks,Bottle Drinks,0,$0.00,179,$535.21,$143.25,$391.96,0.12,$19.60,$0.00,$20.27
+Ginger Bear with Pink Heart,Pastry,Pastry,0,$0.00,23,$80.50,$22.59,$57.91,0.02,$2.90,$0.00,$0.00
+Gingersnap Cookie,Pastry,Pastry,0,$0.00,105,$367.50,$8.76,$358.74,0.11,$17.94,$0.00,$0.00
+Grilled Cheese,Food,Lunch,12,$113.40,1301,"$13,146.07",$714.79,"$12,431.28",3.84,$621.56,$0.00,$0.00
+Hand-Painted Gingerbread Tile Cookie,Pastry,Pastry,0,$0.00,33,$130.35,$36.61,$93.74,0.03,$4.69,$0.00,$0.00
+Hazelnut Syrup,Drinks,Hidden Modifiers,0,$0.00,91,$50.05,$0.00,$50.05,0.02,$2.39,$0.00,$0.00
+Himalayan Chai,Teas,Teas,0,$0.00,4,$12.46,$1.50,$10.96,0,$0.55,$0.00,$0.00
+Iced Coffee,Drinks,Cold Drinks,7,$26.30,1266,"$4,187.70",$156.60,"$4,031.10",1.24,$201.56,$0.00,$0.00
+Iced London Fog,Drinks,Cold Drinks,0,$0.00,3,$15.75,$0.00,$15.75,0,$0.79,$0.00,$0.00
+Italian Soda (without cream),Drinks,Cold Drinks,0,$0.00,15,$74.25,$32.24,$42.01,0.01,$2.10,$0.00,$2.94
+Jasmine Green,Teas,Teas,0,$0.00,89,$321.94,$19.36,$302.58,0.09,$15.13,$0.00,$0.00
+King of The Hill,Drinks,Bottle Drinks,0,$0.00,3,$22.50,$7.50,$15.00,0,$0.75,$0.00,$0.00
+Lava Cake,Pastry,Pastry,0,$0.00,320,"$2,224.00",$143.74,"$2,080.26",0.64,$104.01,$0.00,$0.00
+Leek & Parmesan Bistro,Pastry,Pastry,2,$7.90,446,"$1,761.70",$89.64,"$1,672.06",0.52,$83.60,$0.00,$0.00
+Lemon Ginger,Teas,Teas,0,$0.00,25,$78.56,$1.50,$77.06,0.02,$3.85,$0.00,$0.00
+Lemon loaf,Pastry,Pastry,2,$5.90,469,"$1,383.55",$31.08,"$1,352.47",0.42,$67.62,$0.00,$0.00
+Lemon square,Pastry,Pastry,0,$0.00,312,"$1,232.40",$63.97,"$1,168.43",0.36,$58.42,$0.00,$0.00
+Loop Booster Shot,Drinks,Bottle Drinks,0,$0.00,112,$554.40,$106.63,$447.77,0.14,$22.39,$0.00,$0.00
+Loop Juice,Drinks,Bottle Drinks,0,$0.00,6,$45.00,$3.75,$41.25,0.01,$2.06,$0.00,$0.00
+Loop Recover Shot,Drinks,Bottle Drinks,0,$0.00,77,$381.15,$42.16,$338.99,0.1,$16.95,$0.00,$0.00
+Loose Leaf Tea,Teas,Teas,0,$0.00,6,$150.00,$56.25,$93.75,0.03,$4.69,$0.00,$0.00
+Macro Salad,Food,Lunch,2,$31.80,491,"$5,940.20",$161.17,"$5,779.03",1.78,$288.95,$0.00,$0.00
+Masala Chai,Teas,Teas,1,$3.75,34,$127.65,$6.49,$121.16,0.04,$6.06,$0.00,$0.00
+Meringue Shell,Pastry,Pastry,0,$0.00,15,$44.25,$0.30,$43.95,0.01,$2.20,$0.00,$0.00
+Mint Hot Chocolate (16oz) Seasonal Drink,Drinks,Hot Drinks,0,$0.00,10,$60.25,$2.98,$57.27,0.02,$2.86,$0.00,$0.00
+Mint Mocha (16oz) Seasonal Drink,Drinks,Hot Drinks,1,$5.95,29,$173.30,$0.00,$173.30,0.05,$8.67,$0.00,$0.00
+Morning Glory Loop Juice,Drinks,Bottle Drinks,0,$0.00,47,$352.50,$26.25,$326.25,0.1,$16.31,$0.00,$0.00
+Muffin,Pastry,Pastry,29,$114.55,2679,"$10,582.07",$515.19,"$10,066.88",3.11,$503.34,$0.00,$0.00
+Muffin+12oz Drip Coffee,Pastry,Muffin combo,17,$86.00,1205,"$6,052.75",$12.50,"$6,040.25",1.86,$302.01,$0.00,$0.00
+Oasis Apple Juice,Drinks,Bottle Drinks,0,$0.00,26,$65.00,$0.00,$65.00,0.02,$3.25,$0.00,$0.00
+Oasis Orange Juice,Drinks,Bottle Drinks,0,$0.00,104,$260.00,$2.50,$257.50,0.08,$12.88,$0.00,$0.00
+Oat Milk,Food,Extra,0,$0.00,4,$23.80,$6.27,$17.53,0.01,$0.88,$0.00,$0.00
+Oat Peanut Bar,Pastry,Pastry,1,$4.50,43,$193.50,$0.00,$193.50,0.06,$9.68,$0.00,$0.00
+Open,Food,Extra,7,$19.44,410,"$2,253.21",$22.22,"$2,230.99",0.69,$111.55,$0.00,$0.00
+Organic Pear Tree,Teas,Teas,0,$0.00,48,$176.25,$14.89,$161.36,0.05,$8.07,$0.00,$0.00
+Pantone- Classic Blue,Teas,Teas,0,$0.00,13,$116.00,$42.00,$74.00,0.02,$3.70,$0.00,$0.00
+Peach Mango,Teas,Teas,0,$0.00,30,$97.33,$5.00,$92.33,0.03,$4.62,$0.00,$0.00
+Peanut Butter Chocolate Cookies,Pastry,Pastry,2,$7.00,328,"$1,148.00",$19.60,"$1,128.40",0.35,$56.42,$0.00,$0.00
+Pecan Square,Pastry,Pastry,0,$0.00,37,$146.15,$14.85,$131.30,0.04,$6.57,$0.00,$0.00
+Peppermint (Caffeine Free),Teas,Teas,0,$0.00,100,$369.80,$18.11,$351.69,0.11,$17.58,$0.00,$0.00
+Power Salad,Food,Lunch,0,$0.00,482,"$6,218.25",$277.17,"$5,941.08",1.83,$297.05,$0.00,$0.00
+Protein Shake,Drinks,Cold Drinks,0,$0.00,12,$83.65,$15.66,$67.99,0.02,$3.40,$0.00,$0.00
+Pumpkin Tart,Pastry,Pastry,0,$0.00,20,$115.00,$20.86,$94.14,0.03,$4.71,$0.00,$0.00
+Red Velvet loaf,Pastry,Pastry,0,$0.00,364,"$1,073.80",$43.06,"$1,030.74",0.32,$51.54,$0.00,$0.00
+Refresh Salad,Food,Lunch,1,$13.95,219,"$3,037.00",$154.96,"$2,882.04",0.89,$144.10,$0.00,$0.00
+Root Beer,Drinks,Bottle Drinks,0,$0.00,14,$41.86,$0.00,$41.86,0.01,$2.09,$0.00,$0.00
+Rumball,Pastry,Pastry,0,$0.00,1,$3.95,$1.98,$1.97,0,$0.10,$0.00,$0.00
+Rumballs,Pastry,Pastry,0,$0.00,9,$40.55,$18.32,$22.23,0.01,$1.11,$0.00,$0.00
+S.Pellegrino Carbonated Water,Drinks,Bottle Drinks,0,$0.00,82,$248.50,$27.51,$220.99,0.07,$11.05,$0.00,$12.42
+Sanpellegrino,Drinks,Bottle Drinks,2,$5.00,288,$720.00,$8.75,$711.25,0.22,$35.56,$0.00,$35.61
+Sexy Dark Chocolate Cookies,Pastry,Pastry,0,$0.00,68,$238.00,$7.00,$231.00,0.07,$11.55,$0.00,$0.00
+Shaken Iced Tea,Drinks,Cold Drinks,2,$10.60,385,"$2,014.95",$109.37,"$1,905.58",0.59,$95.28,$0.00,$0.00
+Shortbread Cookies,Pastry,Pastry,0,$0.00,42,$249.90,$20.86,$229.04,0.07,$11.45,$0.00,$0.00
+Smoked Salmon,Food,Breakfast,12,$116.40,1683,"$16,206.71",$940.75,"$15,265.96",4.71,$763.30,$0.00,$0.00
+Soup Of The Day,Food,Lunch,4,$23.80,424,"$2,522.80",$207.01,"$2,315.79",0.71,$115.79,$0.00,$0.00
+Soup With Crouton,Food,Lunch,1,$4.95,201,$994.95,$118.76,$876.19,0.27,$43.81,$0.00,$0.00
+Tap Water,Food,Extra,0,$0.00,217,$0.00,$0.00,$0.00,0,$0.00,$0.00,$0.00
+The Ambit Supernova,Food,Lunch,9,$117.50,1339,"$17,657.70",$505.02,"$17,152.68",5.29,$857.63,$0.00,$0.00
+The Grinder,Food,Lunch,45,$519.65,1027,"$12,447.70",$456.74,"$11,990.96",3.7,$599.55,$0.00,$0.00
+Tote Bag,Merchandise,Merchandise,0,$0.00,3,$45.00,$20.50,$24.50,0.01,$1.23,$1.72,$0.00
+Tuna Melt,Food,Lunch,7,$77.60,1664,"$18,689.15",$762.78,"$17,926.37",5.53,$896.32,$0.00,$0.00
+Two Tone Tote Bag,Merchandise,Merchandise,0,$0.00,3,$75.00,$32.25,$42.75,0.01,$2.14,$2.99,$0.00
+Undercover Loop Juice,Drinks,Bottle Drinks,0,$0.00,14,$105.00,$15.00,$90.00,0.03,$4.50,$0.00,$0.00
+Valentine Cookie,Pastry,Pastry,0,$0.00,23,$113.85,$28.78,$85.07,0.03,$4.25,$0.00,$0.00
+Vanilla Syrup,Drinks,Hidden Modifiers,6,$3.30,486,$267.30,$0.00,$267.30,0.08,$12.79,$0.00,$0.00
+Veggie Breakfast Bagel ,Food,Breakfast,1,$9.95,13,$129.35,$14.93,$114.42,0.04,$5.72,$0.00,$0.00
+Veggie Breakfast Wrap,Food,Breakfast,9,$68.55,1425,"$10,923.75",$391.17,"$10,532.58",3.25,$526.63,$0.00,$0.00
+Veggie Samosa,Pastry,Pastry,0,$0.00,165,$701.25,$10.65,$690.60,0.21,$34.53,$0.00,$0.00
+Venus Hazelnut GF,Pastry,Pastry,0,$0.00,109,$648.55,$14.90,$633.65,0.2,$31.68,$0.00,$0.00
+Venus hazelnut,Pastry,Pastry,0,$0.00,64,$380.80,$6.56,$374.24,0.12,$18.71,$0.00,$0.00
+Water,Drinks,Bottle Drinks,2,$3.98,276,$549.24,$10.50,$538.74,0.17,$26.94,$0.00,$0.00
+White Chocolate Easter Egg Cookie,Pastry,Pastry,0,$0.00,26,$102.70,$19.80,$82.90,0.03,$4.15,$0.00,$0.00
+REPORT SUMMARY (177 entries),,,475,"$3,171.81",55025,"$340,391.62","$16,390.24","$324,001.38",100,"$16,108.18",$9.85,$103.23
