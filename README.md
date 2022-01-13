@@ -48,4 +48,8 @@ Link:
 
 1/11/2022
 - Currently in the process of getting full customer purchase history in .sql from TouchBistro, because the backend of TouchBistro for admin does not provide such data.
-- Currently in the process of building data visualization dashboard in Google Sheet and Tableau.
+- Currently in the process of building data visualization dashboard in Google Sheet and Tableau (data viz draft scratch done).
+
+1/12/2022
+- Additional data table added: Labor Cost, Rent Cost, Utilties Cost onto Google Sheet.
+- Additional produce purchase history manually added into produce dataset.
