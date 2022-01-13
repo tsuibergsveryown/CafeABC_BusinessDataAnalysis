@@ -32,7 +32,7 @@ Link:
 
 
 ### Summary
-
+Summary of the finding will be put out here when it's available.
 
 
 ### Changelog
@@ -53,3 +53,4 @@ Link:
 1/12/2022
 - Additional data table added: Labor Cost, Rent Cost, Utilties Cost onto Google Sheet.
 - Additional produce purchase history manually added into produce dataset.
+- Second meeting with stakeholder N
