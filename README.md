@@ -54,3 +54,8 @@ Summary of the finding will be put out here when it's available.
 - Additional data table added: Labor Cost, Rent Cost, Utilties Cost onto Google Sheet.
 - Additional produce purchase history manually added into produce dataset.
 - Second meeting with stakeholder N
+
+1/14/2022
+- Dashboard Summary on Google Sheet is done, waiting permission to be open source
+- Presentation meeting with the owner booked in for Tuesday Jan 18, 2022
+- Next Goal: build a logistic regression model to predict daily sales base on daily weather, daily covid cases, and other econimic factors such as consumer confidence, unemployment rate, income, inflations, Producer Price Index (PPI), Consumer Price Index (CPI), and interest rate. How do I get these data? Can I get these data in terms of daily, instead of quarterly (especially the economic factors)?
