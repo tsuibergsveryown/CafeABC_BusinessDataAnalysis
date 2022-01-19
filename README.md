@@ -23,7 +23,7 @@ The set of data we collected are from December 2020 to October 2021, total of 11
 
 #### Google Sheet
 Google sheet contains pivot tables tabs, and a functional dashboard with metrics
-Link:
+Link:https://docs.google.com/spreadsheets/d/1BadMKSOvgiwxOG51t83xKy5NIhNEco9W6MUsGz14JWA/edit?usp=sharing 
 
 #### Tableau
 Tableau public data visualization 
@@ -59,3 +59,7 @@ Summary of the finding will be put out here when it's available.
 - Dashboard Summary on Google Sheet is done, waiting permission to be open source
 - Presentation meeting with the owner booked in for Tuesday Jan 18, 2022
 - Next Goal: build a logistic regression model to predict daily sales base on daily weather, daily covid cases, and other econimic factors such as consumer confidence, unemployment rate, income, inflations, Producer Price Index (PPI), Consumer Price Index (CPI), and interest rate. How do I get these data? Can I get these data in terms of daily, instead of quarterly (especially the economic factors)?
+
+1/18/2022
+- Presented findings via Google Sheet to the owner in the afternoon
+- got approval for the findings to be open sourced with the company's name anonymous (CaféABC)
