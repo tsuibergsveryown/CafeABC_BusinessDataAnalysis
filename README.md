@@ -22,7 +22,7 @@ The set of data we collected are from December 2020 to October 2021, total of 11
 ### Present Findings
 
 #### Google Sheet
-Google sheet contains pivot tables tabs, and a functional dashboard with metrics
+Google sheet contains pivot tables tabs, and a functional dashboard with metrics (& a menu item profit calculator!!)
 Link:https://docs.google.com/spreadsheets/d/1BadMKSOvgiwxOG51t83xKy5NIhNEco9W6MUsGz14JWA/edit?usp=sharing 
 
 #### Tableau
